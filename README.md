@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MosesHawk
-- 👀 I’m interested in ... IT technologies, web developing, sysadmin and cyber security
+- 👀 I’m interested in ... IT technologies, web development, sysadmin and cyber security
 - 🌱 I’m currently learning ... html, css, javaS, python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
